@@ -6,3 +6,4 @@ Experiment-3: Decision trees - drug200.csv
 Experiment-4: K Nearest Neighbour - drug200.csv
 Experiment-5: SVM - cell_samples.csv
 Experiment-8: Naive bayes - tennisdata.csv
+Experiment-9: trainingdata.csv
